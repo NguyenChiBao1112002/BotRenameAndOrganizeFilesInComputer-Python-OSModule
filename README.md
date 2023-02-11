@@ -7,5 +7,6 @@
   + video_names: includes information about the names of videos with id
   + video_test: similar to the above sheet but less data for testing
   + main_genres: contains categories of folders
-## Your boss asks you: rename the videos from id to the corresponding name and 
-## organize the videos into the respective category folders (Note: Genre will be in part of the video's name)
+## Your boss asks you: rename the videos from id to the corresponding name and  organize the videos into the respective category folders (Note: Genre will be in part of the video's name)
+
+## You need to install xlrd, os, pathlib to run the program.
