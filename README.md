@@ -9,4 +9,4 @@
   + main_genres: contains categories of folders
 ### Your boss asks you: rename the videos from id to the corresponding name and  organize the videos into the respective category folders (Note: Genre will be in part of the video's name)
 
-## You need to install xlrd, os, pathlib to run the program.
+## You need: to install xlrd, os, pathlib to run the program.
