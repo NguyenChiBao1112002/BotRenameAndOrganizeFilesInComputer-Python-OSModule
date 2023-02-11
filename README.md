@@ -1,6 +1,6 @@
-### Bot-Rename-and-Organize-Files-in-Computer-Python-OS-module-
+###Bot-Rename-and-Organize-Files-in-Computer-Python-OS-module-
 
-##Problem: Your boss gave you a document containing:
+###Problem: Your boss gave you a document containing:
 - The videos are named by id
 - Test folder contains similar videos but with less number for testing
 - Database folder includes 1 Excel file containing Sheets:
